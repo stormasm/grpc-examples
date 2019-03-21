@@ -28,4 +28,6 @@ protoc --go_out=. *.proto
 
 In few words, **marshalling** refers to the process of converting the data or the objects into a byte-stream, and **unmarshalling** is the reverse process of converting the byte-stream back to their original data or object.
 
-[Here is a nice simple example showing this](http://tleyden.github.io/blog/2014/12/02/getting-started-with-go-and-protocol-buffers/)
+[Simple example showing marshal and unmarshal](http://tleyden.github.io/blog/2014/12/02/getting-started-with-go-and-protocol-buffers/)
+
+[Json Example](https://www.dotnetperls.com/json-go)
