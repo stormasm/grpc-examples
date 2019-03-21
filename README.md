@@ -26,9 +26,9 @@ To compile the proto file run this command.
 protoc --go_out=. *.proto
 ```
 
-In few words, **marshalling** refers to the process of converting the data or the objects into a byte-stream, and **unmarshalling** is the reverse process of converting the byte-stream back to their original data or object.
+#### Marshal and Unmarshal by Definition
 
-### Marshal and Unmarshal by Definition
+In few words, **marshalling** refers to the process of converting the data or the objects into a byte-stream, and **unmarshalling** is the reverse process of converting the byte-stream back to their original data or object.
 
 [Marshal and Unmarshal Test Struct](http://tleyden.github.io/blog/2014/12/02/getting-started-with-go-and-protocol-buffers/)
 
